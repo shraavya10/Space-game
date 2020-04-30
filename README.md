@@ -1,2 +1,2 @@
-# Space-game
-I created a game:Galactic Space Rangers.
+# p5.play-boilerplate
+Boiler plate for p5.play
